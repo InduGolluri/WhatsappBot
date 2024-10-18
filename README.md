@@ -4,6 +4,13 @@ This project implements a simple chatbot using Python, which interacts with user
 ## Project Overview
 The Tridib Chatbot leverages libraries such as pyautogui for automating keyboard and mouse actions, requests and BeautifulSoup for web scraping, and wikipedia for fetching information. It is designed to respond to specific user queries and provide a conversational experience.
 
+## Technologies Used
+The project utilizes pyautogui, webbrowser, requests, BeautifulSoup, wikipedia, tkinter, and pyttsx3 for automation, web scraping, information retrieval, clipboard access, and text-to-speech functionality.
+
+
+
+
+
 ## Key Components
 #### 1.Libraries Used:
 
